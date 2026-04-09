@@ -1,0 +1,18 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@11.3.0
+2 info using node@v22.13.0
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/user/Documents/Mununus Store/minunus-store/.npmrc
+5 silly config load:file:/usr/local/etc/npmrc
+6 verbose title npm run dev
+7 verbose argv "run" "dev"
+8 verbose logfile logs-max:10 dir:/Users/user/Documents/Mununus Store/minunus-store/.npm/_logs/2026-03-31T05_55_04_046Z-
+9 verbose logfile /Users/user/Documents/Mununus Store/minunus-store/.npm/_logs/2026-03-31T05_55_04_046Z-debug-0.log
+10 silly logfile start cleaning logs, removing 1 files
+11 silly logfile done cleaning log files
+12 verbose cwd /Users/user/Documents/Mununus Store/minunus-store
+13 verbose os Darwin 25.2.0
+14 verbose node v22.13.0
+15 verbose npm  v11.3.0
+16 verbose exit 1
+17 verbose code 1
