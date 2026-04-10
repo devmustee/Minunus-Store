@@ -10,7 +10,7 @@
     "db:push": "prisma db push",
     "db:seed": "prisma db seed",
     "setup": "npm run db:push && npm run db:seed",
-    "postinstall": "npm run setup"
+    "postinstall": "prisma generate"
   },
   "dependencies": {
     "@prisma/client": "^6.19.2",
